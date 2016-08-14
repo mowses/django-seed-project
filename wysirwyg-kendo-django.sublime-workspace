@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"module",
+				"moduleService	parameter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "inden",
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/name/Documents/wysirwyg-kendo-django"
+	],
+	"file_history":
+	[
+		"/home/name/Documents/wysirwyg-kendo/src/index.html",
+		"/home/name/Documents/wysirwyg-kendo/src/modules/editor/template.html",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/apps.py",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/urls.py",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/views.py",
+		"/home/name/Documents/wysirwyg-kendo-django/manage.py",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/admin.py",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/admin.pyc",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/__init__.py",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/__init__.pyc",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/models.py",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/models.pyc",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/tests.py",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/urls.pyc",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/views.pyc",
+		"/home/name/Documents/wysirwyg-kendo-django/mysite/settings.py",
+		"/home/name/Documents/wysirwyg-kendo-django/mysite/__init__.py",
+		"/home/name/Documents/wysirwyg-kendo-django/mysite/__init__.pyc",
+		"/home/name/Documents/wysirwyg-kendo-django/mysite/settings.pyc",
+		"/home/name/Documents/wysirwyg-kendo-django/mysite/urls.py",
+		"/home/name/Documents/wysirwyg-kendo-django/mysite/urls.pyc",
+		"/home/name/Documents/wysirwyg-kendo-django/mysite/wsgi.py",
+		"/home/name/Documents/wysirwyg-kendo-django/mysite/wsgi.pyc",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/templates/personal/basic.html",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/templates/personal/layout.html",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/templates/personal/home.html",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/templates/personal/includes/htmlsnippet.html",
+		"/home/name/Documents/wysirwyg-kendo-django/editor/templates/personal/header.html",
+		"/home/name/Documents/Part 10 Sample Code/mysite/mysite/wsgi.py",
+		"/home/name/Documents/Part 10 Sample Code/mysite/mysite/urls.py",
+		"/home/name/Documents/Part 10 Sample Code/mysite/mysite/settings.py",
+		"/home/name/Documents/Part 10 Sample Code/mysite/mysite/__init__.py",
+		"/home/name/Documents/Part 10 Sample Code/mysite/manage.py",
+		"/home/name/Documents/Part 10 Sample Code/mysite/mysite/__init__.pyc",
+		"/home/name/Documents/Part 10 Sample Code/mysite/mysite/settings.pyc",
+		"/home/name/Documents/Part 10 Sample Code/mysite/mysite/urls.pyc",
+		"/home/name/Documents/Part 10 Sample Code/mysite/mysite/wsgi.pyc",
+		"/home/name/Documents/wysirwyg-kendo/src/services/template-loader.js",
+		"/home/name/Documents/wysirwyg-kendo/src/router.js",
+		"/home/name/Documents/wysirwyg_kendo_django/manage.py",
+		"/home/name/Documents/wysirwyg-kendo/src/modules/editor/model.js",
+		"/home/name/Documents/wysirwyg_kendo_django/src/__init__.py",
+		"/home/name/Documents/wysirwyg_kendo_django/src/__init__.pyc",
+		"/home/name/Documents/wysirwyg_kendo_django/src/settings.py",
+		"/home/name/Documents/wysirwyg_kendo_django/src/settings.pyc",
+		"/home/name/Documents/wysirwyg_kendo_django/src/urls.py",
+		"/home/name/Documents/wysirwyg_kendo_django/src/urls.pyc",
+		"/home/name/Documents/wysirwyg_kendo_django/src/wsgi.py",
+		"/home/name/Documents/wysirwyg_kendo_django/src/wsgi.pyc",
+		"/home/name/Documents/wysirwyg_kendo_django/db.sqlite3",
+		"/home/name/Documents/wysirwyg-kendo/bootstrap.js",
+		"/home/name/Documents/wysirwyg-kendo/src/wysirwyg-namespaces.js",
+		"/home/name/Documents/wysirwyg-kendo/src/routes.js",
+		"/home/name/Documents/wysirwyg-kendo/package.json",
+		"/home/name/Documents/wysirwyg-kendo/src/models/editor.js",
+		"/home/name/Documents/wysirwyg-angular2/src/modules/app-editor/app-editor.template.html",
+		"/home/name/Documents/wysirwyg-kendo/wysirwyg-kendo.sublime-project",
+		"/home/name/Documents/wysirwyg-angular2/wysirwyg-angular2.sublime-project",
+		"/home/name/Documents/wysirwyg-kendo/src/app-kendo.html",
+		"/home/name/Documents/wysirwyg-angular2/src/components/wys-component/wys-component.template.html",
+		"/home/name/Documents/wysirwyg-angular2/src/modules/app-editor/app-editor.component.ts",
+		"/home/name/Documents/wysirwyg-angular2/src/components/wys-component/wys-component.component.ts",
+		"/etc/default/grub",
+		"/home/name/Documents/wysirwyg-angular2/src/components/kendo-ui/kendo-ui.component.ts",
+		"/home/name/Documents/wysirwyg-angular2/src/components/wys-dynamic-builder/wys-dynamic-builder.component.ts",
+		"/home/name/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/name/.config/sublime-text-3/Packages/User/TypeScript.sublime-settings",
+		"/home/name/Documents/wysirwyg-angular2/src/components/wys-widget/wys-widget.component.ts",
+		"/home/name/Documents/wysirwyg-angular2/src/services/module/module.service.ts",
+		"/home/name/.config/sublime-text-3/Packages/Horizontal Scroll/Default (Linux).sublime-keymap",
+		"/home/name/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/name/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/name/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>",
+			"/home/name/Documents/wysirwyg-angular2/src/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"personal",
+			"wysirwyg_kendo_django",
+			"kendo",
+			"createComponent",
+			".createComponent",
+			"createComponent",
+			"kendo.template",
+			"#=",
+			"template",
+			"ComponentMetadata",
+			"WysDynamicBuilderComponent",
+			"createcompo",
+			"ViewChild",
+			"ViewContainerRef",
+			"ComponentResolver",
+			"ComponentFactory",
+			"ngAfterViewInit",
+			"template",
+			"customComponent",
+			"customComponentPlaceholder",
+			"WysWidgetComponent",
+			"wys-widget",
+			"click",
+			"111111",
+			"WysWidgetComponent",
+			"111",
+			"WysComponentComponent",
+			"constructClass",
+			"ModuleService",
+			"this.model",
+			"cmp-",
+			"WysComponentComponent",
+			"moduleService",
+			"differs",
+			"ReflectiveInjector",
+			"ComponentRef",
+			"_activeComponent",
+			"ComponentRef",
+			"ComponentMetadata",
+			"ComponentFactory",
+			"dynamicComponentLoader",
+			"DynamicComponentLoader",
+			"KeyValueDiffers",
+			"DoCheck",
+			"Injector",
+			"WysComponentComponent",
+			"componentcomponent",
+			"createComponentFactory",
+			"constructCla",
+			"constructClass",
+			"====",
+			"button",
+			"super",
+			"super.",
+			"super",
+			"createComponent",
+			"resolv",
+			"ComponentFactory",
+			"CustomClass",
+			"customComponentPlaceholder",
+			"console.lo",
+			"ModuleService",
+			"moduleserv",
+			"ḿoduleserv",
+			"wysComponentModel",
+			"WysComponentModel",
+			"ModuleService",
+			"WysComponentModel",
+			"ComponentMetadata",
+			"template",
+			"cmp-",
+			"id-",
+			"wys-widget",
+			"button\"",
+			"instance removed",
+			"addcomponent",
+			"widgets",
+			"ngOnInit",
+			"console",
+			"DynamicComponentLoader",
+			"componentloade",
+			"dinamic",
+			"viewInstancePlaceholder",
+			"componentfac",
+			"_vcRef",
+			"DynamicComponentLoader",
+			"dynamic",
+			"left",
+			"scroll",
+			"scroll_",
+			"comment",
+			"wys-component",
+			"wys-compo",
+			"cocoroni",
+			"ReflectiveInjector",
+			"_vcRef",
+			"ViewContainerRef"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wysirwyg-kendo-django.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				""
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
